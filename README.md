@@ -1,7 +1,7 @@
 <!DOCTYPE>
 <html>
 <head>
-<title> Practice with CSS</title>
+<title>Practice with CSS</title>
 </head>
 <body>
 <h1 class="my-white-font">Write your first CSS Example</h1>
